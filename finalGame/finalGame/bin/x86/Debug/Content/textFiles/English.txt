@@ -1,0 +1,70 @@
+﻿//Battle Text
+Fight
+Items
+
+//Moves
+Bubblebeam
+Comet Punch
+Seismic Toss
+Lick
+
+//names moves
+Squirtle used Bubblebeam
+Squirtle used Comet Punch
+Squirtle used Seismic Toss
+Squirtle used Lick
+
+//enemies moves
+Slowpoke used Hyper Beam
+Slowpoke used Psychic
+Slowpoke used Water Gun
+Slowpoke used Baby-Doll Eyes
+
+//effects
+Slowpoke feels awkward
+Squirtle feels uncomfortable
+
+//items list
+You don't have any items!
+Hit Back, Now or Later
+
+//controls
+Controls
+Arrow Keys
+A: Accept
+Q: Back
+Z: Pause/Unpause
+
+//languages
+Languages
+English
+Polish
+Chinese
+
+Credits
+//Created by Ryan Sobczak
+//Assets credited to the internet
+//Assets recolored by Sarah Weber
+
+//toggle music
+Toggle Music
+Music On
+Music Off
+
+//play
+Enter the Game
+
+//Back to main menu
+Back to Main Menu
+
+//Exit
+Exit
+
+//Credits
+Credits
+Created: 
+Ryan Sobczak
+Assets credited:
+internet
+Assets recolored: 
+Sarah Weber

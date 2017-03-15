@@ -1,0 +1,70 @@
+﻿//battle text
+Walka
+Pozycje
+
+// Moves
+Bubble Beam
+kometa dziurkacz
+Seismic Toss
+Lizac
+
+// names moves
+Squirtle uzywane Bubblebeam
+Squirtle uzywane Comet Poncz
+Squirtle uzywane sejsmiczne Toss
+Squirtle uzywane Lick
+
+// slowpoke moves
+Slowpoke uzywane Hyper Beam
+Slowpoke uzywane Psychic
+Slowpoke uzywane Water Gun
+Slowpoke uzywane Baby-Doll Eyes
+
+// effects
+Slowpoke czuje sie niezrecznie
+Squirtle czuje sie nieswojo
+
+// items list
+Nie masz zadnych przedmiotow!
+Hit Back, teraz, czy pozniej
+
+// controls
+sterownica
+strzalki
+A: Akceptowac
+Q: Powrot
+Z: Pauza / nie zatrzymac
+
+//languages
+Jezyki
+Angielski
+Polski
+Chinski
+
+Kredyty
+Stworzony przez Ryana Sobczak
+Aktywa dobro do internetu
+Aktywa recolored Sarah Weber
+
+//toggle music
+Zmiana Muzyka
+Muzyka Na
+Muzyka wylaczony
+
+// play
+Wejdz do gry
+
+//back to main menu
+Powrot do menu glownego
+
+// exit
+Wyjscie
+
+// Kredyty
+Kredyty
+Utworzono:
+Ryan Sobczak
+Aktywa zapisywane:
+Internet
+Artysta:
+Sarah Weber
